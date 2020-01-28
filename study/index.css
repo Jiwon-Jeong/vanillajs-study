@@ -23,3 +23,9 @@ h1 {
 .showing {
   display: block;
 }
+
+.js-toDoList button {
+  color: red;
+  border: none;
+  background-color: none;
+}
